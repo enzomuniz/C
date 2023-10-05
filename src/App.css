@@ -1,0 +1,31 @@
+.container{
+background-color: #f5f5f5;
+flex-direction: column;
+}
+.container a{
+  text-decoration: none;
+  color: #000;
+}
+.headerLogo{
+  width:600px;
+}
+.card{
+  display: flex;
+  flex-direction: row;
+  margin: 35px;
+}
+.nome{
+  text-decoration-color: #000 ;
+}
+.escudo{
+  width: 125px
+}
+.nomeApelido{
+  margin: 10px;
+  margin-left: 20px;
+}
+.perfil{
+  display: flex;
+  flex-direction: row;
+  margin: 35px;
+  }
